@@ -1,6 +1,6 @@
 import {Birthday} from "../../main/typescript/birthday";
 
-describe('Test person.ts', () => {
+xdescribe('Test person.ts', () => {
     let birthday: Birthday;
     let file = `last_Name, firt_name,date_of_birth, email\n`+
                 `Doe, John, 1982/10/08, john.doe@goobar.com\n`+

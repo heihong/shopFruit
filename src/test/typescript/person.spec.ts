@@ -1,6 +1,6 @@
 import {Projet} from "../../main/typescript/person";
 
-describe('Test person.ts', () => {
+xdescribe('Test person.ts', () => {
     let projet: Projet;
 
     beforeEach(() => projet = new Projet());
